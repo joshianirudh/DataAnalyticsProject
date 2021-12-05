@@ -17,6 +17,14 @@ They allowed us to tailor a custom dataset through the vast number of indicators
 
 ## Our approach to the problem
 
-Our team started off by understanding all the indicators and their relavence by performing Exploratory Data Analysis in the form of `EDA.ipynb`. Before we could perform this however, our dataset was raw and had to be preprocessed before we could do anything which we did via `Preprocessing the initial csv file.ipynb` which produced `final.csv`. We gather insights 
+Our team started off by understanding all the indicators and their relavence by performing Exploratory Data Analysis in the form of `EDA.ipynb`. Before we could perform this however, our dataset was raw and had to be preprocessed before we could do anything which we did via `Preprocessing the initial csv file.ipynb` which produced `final.csv`. We gathered insights by plotting graphs in `plots_complete.ipynb`. Since our data was timeseries data, we making models and tested them in `Forecasting.ipynb`.
+
+## Libraires Used
+`numpy`
+`pandas`
+`matplotlib`
+`scikit-learn`
+`statstools`
+``
 
 
