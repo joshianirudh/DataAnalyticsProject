@@ -30,6 +30,9 @@ Our team started off by understanding all the indicators and their relavence by 
 `scipy`
 `fbprophet`
 
+## Team Name
+AlphaCube_024_042_056_165
+
 
 
 
