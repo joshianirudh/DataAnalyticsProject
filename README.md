@@ -27,6 +27,7 @@ Our team started off by understanding all the indicators and their relavence by 
 `seaborn`
 `scikit-learn`
 `statstools`
+`scipy`
 
 
 
