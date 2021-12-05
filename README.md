@@ -26,8 +26,10 @@ Our team started off by understanding all the indicators and their relavence by 
 `matplotlib`
 `seaborn`
 `scikit-learn`
-`statstools`
+`statsmodels`
 `scipy`
+`fbprophet`
+
 
 
 
