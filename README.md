@@ -15,4 +15,8 @@ of judging economic growth.
 We choose data collected by the World Bank in the form of the the [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators).
 They allowed us to tailor a custom dataset through the vast number of indicators they have collected data for. Our dataset only took indicator data for India, as our study pertains to that.
 
+## Our approach to the problem
+
+Our team started off by understanding all the indicators and their relavence by performing Exploratory Data Analysis in the form of `EDA.ipynb`
+
 
