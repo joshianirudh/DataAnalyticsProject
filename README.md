@@ -17,7 +17,7 @@ EDA.ipynb : Explanatory Data Analysis of the data.
 
 Forecasting.ipynb : Use various time series forecasting models to predict GDP.
 
-FBProphet.ipynb : Time series forecasting use the FBProphet library of Facebook. 
+FBProphet.ipynb : Time series forecasting using the FBProphet library of Facebook. 
 
 ## Our Dataset
 
