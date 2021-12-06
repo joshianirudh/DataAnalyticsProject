@@ -10,6 +10,12 @@ We will also study what economic indicators are highly correlated
 with GDP as GDP is commonly accepted as the primary source
 of judging economic growth.
 
+##Files
+Preprocessing_the_initial_csv.ipynb : Remove null values and redundant features.
+EDA.ipynb : Explanatory Data Analysis of the data.
+Forecasting.ipynb : Use various time series forecasting models to predict GDP.
+FBProphet.ipynb : Time series forecasting use the FBProphet library of Facebook. 
+
 ## Our Dataset
 
 We choose data collected by the World Bank in the form of the the [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators).
