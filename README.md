@@ -12,8 +12,11 @@ of judging economic growth.
 
 ## Files
 Preprocessing_the_initial_csv.ipynb : Remove null values and redundant features.
+
 EDA.ipynb : Explanatory Data Analysis of the data.
+
 Forecasting.ipynb : Use various time series forecasting models to predict GDP.
+
 FBProphet.ipynb : Time series forecasting use the FBProphet library of Facebook. 
 
 ## Our Dataset
