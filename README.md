@@ -10,7 +10,7 @@ We will also study what economic indicators are highly correlated
 with GDP as GDP is commonly accepted as the primary source
 of judging economic growth.
 
-##Files
+## Files
 Preprocessing_the_initial_csv.ipynb : Remove null values and redundant features.
 EDA.ipynb : Explanatory Data Analysis of the data.
 Forecasting.ipynb : Use various time series forecasting models to predict GDP.
